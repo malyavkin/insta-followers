@@ -1,0 +1,1356 @@
+1504606822230	geckodriver	INFO	geckodriver 0.18.0
+1504606822246	geckodriver	INFO	Listening on 127.0.0.1:58498
+1504606823398	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504606824259	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504606825349	Marionette	INFO	Enabled via --marionette
+2017-09-05 13:20:27.760 plugin-container[80586:5333417] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:20:27.761 plugin-container[80586:5333417] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504606828094	Marionette	INFO	Listening on port 58515
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504606828140	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504606828182	Marionette	DEBUG	loaded listener.js
+1504606828207	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504606828984	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504606828985	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504606832851	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504606832881	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504606832896	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504606833781	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504606834040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3e6286be064e76&origin=https%3A%2F%2Fwww.instagram.com"
+1504606834047	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3e6286be064e76&origin=https%3A%2F%2Fwww.instagram.com"
+1504606834475	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504606869736	geckodriver	INFO	geckodriver 0.18.0
+1504606869767	geckodriver	INFO	Listening on 127.0.0.1:58861
+1504606870766	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504606872747	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504606874820	Marionette	INFO	Enabled via --marionette
+1504606879674	Marionette	INFO	Listening on port 58874
+2017-09-05 13:21:19.803 plugin-container[80612:5334759] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:21:19.805 plugin-container[80612:5334759] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504606879833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504606879888	Marionette	DEBUG	loaded listener.js
+1504606879954	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504606881061	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504606881061	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504606884003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504606884016	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504606884094	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504606886136	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504606887041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1582c8076c2c62&origin=https%3A%2F%2Fwww.instagram.com"
+1504606887044	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1582c8076c2c62&origin=https%3A%2F%2Fwww.instagram.com"
+1504606888794	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504606993008	geckodriver	INFO	geckodriver 0.18.0
+1504606993016	geckodriver	INFO	Listening on 127.0.0.1:59609
+1504606994864	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504606995210	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504606995634	Marionette	INFO	Enabled via --marionette
+1504606997546	Marionette	INFO	Listening on port 59626
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-09-05 13:23:17.609 plugin-container[80626:5336214] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:23:17.609 plugin-container[80626:5336214] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504606997630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504606997668	Marionette	DEBUG	loaded listener.js
+1504606997686	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504606998670	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504606998671	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504607001357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504607001368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504607001372	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504607002647	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504607002899	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f9686ef785a778&origin=https%3A%2F%2Fwww.instagram.com"
+1504607002901	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f9686ef785a778&origin=https%3A%2F%2Fwww.instagram.com"
+1504607003333	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504607003565	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504607003587	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f3d9c6a49e172d6&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff9686ef785a778&relation=parent&error=unknown_user"
+1504607003591	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1504607003708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-09-05 13:26:09.927 plugin-container[80679:5339893] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:26:09.928 plugin-container[80679:5339893] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504607345351	geckodriver	INFO	geckodriver 0.18.0
+1504607345356	geckodriver	INFO	Listening on 127.0.0.1:61216
+1504607345466	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504607346150	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504607347062	Marionette	INFO	Enabled via --marionette
+2017-09-05 13:29:09.749 plugin-container[80739:5342786] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:29:09.750 plugin-container[80739:5342786] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504607350444	Marionette	INFO	Listening on port 61227
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504607350530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504607350579	Marionette	DEBUG	loaded listener.js
+1504607350606	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504607351501	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504607351501	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504607871661	geckodriver	INFO	geckodriver 0.18.0
+1504607871679	geckodriver	INFO	Listening on 127.0.0.1:63623
+1504607872805	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504607873247	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504607874460	Marionette	INFO	Enabled via --marionette
+2017-09-05 13:37:57.316 plugin-container[80985:5350144] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:37:57.319 plugin-container[80985:5350144] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504607878401	Marionette	INFO	Listening on port 63636
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504607878467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504607878530	Marionette	DEBUG	loaded listener.js
+1504607924928	geckodriver	INFO	geckodriver 0.18.0
+1504607924935	geckodriver	INFO	Listening on 127.0.0.1:63975
+1504607925109	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504607925641	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504607926372	Marionette	INFO	Enabled via --marionette
+2017-09-05 13:38:49.415 plugin-container[81006:5351307] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:38:49.417 plugin-container[81006:5351307] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504607929431	Marionette	INFO	Listening on port 63982
+1504607929561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504607929642	Marionette	DEBUG	loaded listener.js
+1504607953360	geckodriver	INFO	geckodriver 0.18.0
+1504607953366	geckodriver	INFO	Listening on 127.0.0.1:64205
+1504607953476	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504607954109	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504607954843	Marionette	INFO	Enabled via --marionette
+1504607958321	Marionette	INFO	Listening on port 64212
+2017-09-05 13:39:18.330 plugin-container[81029:5352336] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:39:18.331 plugin-container[81029:5352336] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504607958442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504607958505	Marionette	DEBUG	loaded listener.js
+1504607958542	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504607959341	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504607959342	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504607961353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504607962336	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504607962526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2ca9f2e7737d84&origin=https%3A%2F%2Fwww.instagram.com"
+1504607962529	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2ca9f2e7737d84&origin=https%3A%2F%2Fwww.instagram.com"
+1504607962932	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504607964545	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1504608022535	geckodriver	INFO	geckodriver 0.18.0
+1504608022541	geckodriver	INFO	Listening on 127.0.0.1:64677
+1504608022789	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504608023247	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504608024125	Marionette	INFO	Enabled via --marionette
+2017-09-05 13:40:26.270 plugin-container[81055:5354133] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:40:26.272 plugin-container[81055:5354133] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504608027162	Marionette	INFO	Listening on port 64688
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504608027264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504608027323	Marionette	DEBUG	loaded listener.js
+1504608027351	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504608028171	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504608028171	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504608030274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504608031452	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608031687	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f21d25d0e6b288&origin=https%3A%2F%2Fwww.instagram.com"
+1504608031694	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f21d25d0e6b288&origin=https%3A%2F%2Fwww.instagram.com"
+1504608032070	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608033498	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504608033513	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/accounts/login/"
+1504608034145	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/accounts/login/"
+1504608034147	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/accounts/login/"
+1504608034192	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1504608036179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608036250	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608036260	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608036398	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608036493	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=fd02648318386c&origin=https%3A%2F%2Fwww.instagram.com"
+1504608036502	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=fd02648318386c&origin=https%3A%2F%2Fwww.instagram.com"
+1504608036948	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608292293	geckodriver	INFO	geckodriver 0.18.0
+1504608292300	geckodriver	INFO	Listening on 127.0.0.1:49714
+1504608293437	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504608293934	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504608294898	Marionette	INFO	Enabled via --marionette
+1504608298313	Marionette	INFO	Listening on port 49727
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504608298423	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-09-05 13:44:58.438 plugin-container[81127:5358226] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:44:58.440 plugin-container[81127:5358226] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504608298510	Marionette	DEBUG	loaded listener.js
+1504608298584	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504608299441	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504608299442	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504608301758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504608302790	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608303082	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2b32043ebfe2d2&origin=https%3A%2F%2Fwww.instagram.com"
+1504608303084	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2b32043ebfe2d2&origin=https%3A%2F%2Fwww.instagram.com"
+1504608303525	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608304811	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504608306399	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504608306829	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504608306829	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504608307917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608307951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608307957	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608308314	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608308506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2b120135e6994&origin=https%3A%2F%2Fwww.instagram.com"
+1504608308516	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2b120135e6994&origin=https%3A%2F%2Fwww.instagram.com"
+1504608308657	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608328880	geckodriver	INFO	geckodriver 0.18.0
+1504608328903	geckodriver	INFO	Listening on 127.0.0.1:50058
+1504608329005	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504608329893	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504608330666	Marionette	INFO	Enabled via --marionette
+2017-09-05 13:45:33.268 plugin-container[81151:5359502] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:45:33.269 plugin-container[81151:5359502] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504608333270	Marionette	INFO	Listening on port 50065
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504608333370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504608333427	Marionette	DEBUG	loaded listener.js
+1504608333451	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504608334194	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504608334194	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504608336384	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504608337447	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608337657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f5fdc73953188&origin=https%3A%2F%2Fwww.instagram.com"
+1504608337660	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f5fdc73953188&origin=https%3A%2F%2Fwww.instagram.com"
+1504608338256	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608339312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504608340954	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504608341375	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504608341375	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504608342496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608342548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608342558	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608342687	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608342808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f365940b61e418a&origin=https%3A%2F%2Fwww.instagram.com"
+1504608342811	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f365940b61e418a&origin=https%3A%2F%2Fwww.instagram.com"
+1504608343054	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608413331	geckodriver	INFO	geckodriver 0.18.0
+1504608413341	geckodriver	INFO	Listening on 127.0.0.1:50577
+1504608413571	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504608414027	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504608414964	Marionette	INFO	Enabled via --marionette
+2017-09-05 13:46:58.136 plugin-container[81173:5361316] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:46:58.137 plugin-container[81173:5361316] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504608418168	Marionette	INFO	Listening on port 50584
+1504608418214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504608418273	Marionette	DEBUG	loaded listener.js
+1504608418302	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504608418850	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504608418851	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504608420892	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504608421950	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608422173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3ddeeccd57d552&origin=https%3A%2F%2Fwww.instagram.com"
+1504608422176	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3ddeeccd57d552&origin=https%3A%2F%2Fwww.instagram.com"
+1504608422711	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608424082	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504608425192	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504608425585	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504608425586	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504608428165	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608428243	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608428250	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608428401	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608428704	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f342a4f017e0d6c&origin=https%3A%2F%2Fwww.instagram.com"
+1504608428709	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f342a4f017e0d6c&origin=https%3A%2F%2Fwww.instagram.com"
+1504608429068	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608429393	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504608429414	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f1c23b06c7faee&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff342a4f017e0d6c&relation=parent&error=unknown_user"
+1504608429465	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504608429556	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504608759276	geckodriver	INFO	geckodriver 0.18.0
+1504608759306	geckodriver	INFO	Listening on 127.0.0.1:52219
+1504608760588	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504608761579	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504608764108	Marionette	INFO	Enabled via --marionette
+2017-09-05 13:52:51.875 plugin-container[81345:5367835] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 13:52:51.877 plugin-container[81345:5367835] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504608772842	Marionette	INFO	Listening on port 52236
+1504608773159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504608773263	Marionette	DEBUG	loaded listener.js
+1504608773574	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504608774408	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504608774410	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504608779137	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504608781364	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608781964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2f7d8296042bb8&origin=https%3A%2F%2Fwww.instagram.com"
+1504608781970	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2f7d8296042bb8&origin=https%3A%2F%2Fwww.instagram.com"
+1504608783059	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504608785619	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/accounts/login/"
+1504608785716	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f1f58d5e78c92ae&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2f7d8296042bb8&relation=parent&error=unknown_user"
+1504608785783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1504608785783	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504608787568	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504608787980	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504608787982	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504608791752	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608791791	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504608792021	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608792819	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608793634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f168067ca1300d&origin=https%3A%2F%2Fwww.instagram.com"
+1504608793656	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f168067ca1300d&origin=https%3A%2F%2Fwww.instagram.com"
+1504608793919	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504608794842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504626352722	geckodriver	INFO	geckodriver 0.18.0
+1504626352735	geckodriver	INFO	Listening on 127.0.0.1:52802
+1504626353899	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504626354544	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504626355395	Marionette	INFO	Enabled via --marionette
+1504626358244	Marionette	INFO	Listening on port 52811
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-09-05 18:45:58.350 plugin-container[86126:5513736] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 18:45:58.351 plugin-container[86126:5513736] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504626358355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504626358403	Marionette	DEBUG	loaded listener.js
+1504626358429	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504626359533	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504626359533	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504626362605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504626364012	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504626364413	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f33dc331a37fe9a&origin=https%3A%2F%2Fwww.instagram.com"
+1504626364416	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f33dc331a37fe9a&origin=https%3A%2F%2Fwww.instagram.com"
+1504626364726	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504626365859	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504626368331	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504626368782	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504626368782	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504626370309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504626370318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504626370326	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504626370496	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504626370578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3cf4fc2c9637&origin=https%3A%2F%2Fwww.instagram.com"
+1504626370581	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3cf4fc2c9637&origin=https%3A%2F%2Fwww.instagram.com"
+1504626371290	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504626371507	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504626371539	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f209ec72e84fe38&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff3cf4fc2c9637&relation=parent&error=unknown_user"
+1504626371574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504626371652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1504627073490	geckodriver	INFO	geckodriver 0.18.0
+1504627073495	geckodriver	INFO	Listening on 127.0.0.1:53165
+1504627073589	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504627074096	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504627074919	Marionette	INFO	Enabled via --marionette
+2017-09-05 18:57:57.624 plugin-container[86378:5522112] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 18:57:57.625 plugin-container[86378:5522112] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504627078345	Marionette	INFO	Listening on port 53172
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504627078397	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504627078468	Marionette	DEBUG	loaded listener.js
+1504627078504	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504627079441	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504627079441	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504627081569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504627084715	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627085109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1082992b256194&origin=https%3A%2F%2Fwww.instagram.com"
+1504627085112	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1082992b256194&origin=https%3A%2F%2Fwww.instagram.com"
+1504627085600	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627086780	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627088400	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504627088839	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627088840	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504627089657	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627089701	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627089710	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627089820	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627089907	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=fd8bb57567cfc&origin=https%3A%2F%2Fwww.instagram.com"
+1504627089909	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=fd8bb57567cfc&origin=https%3A%2F%2Fwww.instagram.com"
+1504627090450	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627090705	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504627090755	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f30982b8573106a&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ffd8bb57567cfc&relation=parent&error=unknown_user"
+1504627090771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504627090816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 86378] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1504627135891	geckodriver	INFO	geckodriver 0.18.0
+1504627135897	geckodriver	INFO	Listening on 127.0.0.1:53322
+1504627135999	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504627136737	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504627137755	Marionette	INFO	Enabled via --marionette
+2017-09-05 18:59:00.517 plugin-container[86410:5523814] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 18:59:00.518 plugin-container[86410:5523814] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504627140826	Marionette	INFO	Listening on port 53329
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504627140902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504627140963	Marionette	DEBUG	loaded listener.js
+1504627141011	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504627141816	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504627141816	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504627143831	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504627145185	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627145514	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f121a68dfa4fef6&origin=https%3A%2F%2Fwww.instagram.com"
+1504627145517	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f121a68dfa4fef6&origin=https%3A%2F%2Fwww.instagram.com"
+1504627145870	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627147128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627148740	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504627149116	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627149117	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504627150068	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627150114	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627150125	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627150235	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627150311	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f33c41be7874468&origin=https%3A%2F%2Fwww.instagram.com"
+1504627150313	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f33c41be7874468&origin=https%3A%2F%2Fwww.instagram.com"
+1504627150671	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627150933	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504627150955	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f3bba3fceea1a18&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff33c41be7874468&relation=parent&error=unknown_user"
+1504627151000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504627151188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627247531	geckodriver	INFO	geckodriver 0.18.0
+1504627247537	geckodriver	INFO	Listening on 127.0.0.1:53544
+1504627247654	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504627248208	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504627248904	Marionette	INFO	Enabled via --marionette
+2017-09-05 19:00:51.170 plugin-container[86438:5525982] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 19:00:51.173 plugin-container[86438:5525982] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504627251615	Marionette	INFO	Listening on port 53551
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504627251683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504627251741	Marionette	DEBUG	loaded listener.js
+1504627251771	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504627326522	geckodriver	INFO	geckodriver 0.18.0
+1504627326531	geckodriver	INFO	Listening on 127.0.0.1:53701
+1504627327625	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504627328087	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504627328681	Marionette	INFO	Enabled via --marionette
+1504627331192	Marionette	INFO	Listening on port 53710
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504627331383	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-09-05 19:02:11.420 plugin-container[86483:5528323] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 19:02:11.421 plugin-container[86483:5528323] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504627331593	Marionette	DEBUG	loaded listener.js
+1504627331668	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504627332439	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504627332439	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504627334755	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504627335756	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627336080	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1088aa7ef79f3e&origin=https%3A%2F%2Fwww.instagram.com"
+1504627336086	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1088aa7ef79f3e&origin=https%3A%2F%2Fwww.instagram.com"
+1504627336405	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627338497	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627340483	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504627340964	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627340965	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504627341849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627341867	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627341875	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627341970	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627342042	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1d2b4a1a271be6&origin=https%3A%2F%2Fwww.instagram.com"
+1504627342046	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1d2b4a1a271be6&origin=https%3A%2F%2Fwww.instagram.com"
+1504627342767	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627342987	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504627343019	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f160f98b93d0678&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff1d2b4a1a271be6&relation=parent&error=unknown_user"
+1504627343063	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504627343101	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627523599	geckodriver	INFO	geckodriver 0.18.0
+1504627523605	geckodriver	INFO	Listening on 127.0.0.1:54040
+1504627523697	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504627524320	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504627524983	Marionette	INFO	Enabled via --marionette
+2017-09-05 19:05:27.395 plugin-container[86533:5531353] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 19:05:27.396 plugin-container[86533:5531353] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504627528009	Marionette	INFO	Listening on port 54047
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504627528105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504627528145	Marionette	DEBUG	loaded listener.js
+1504627528176	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504627528659	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504627528659	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504627530194	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504627531481	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627531730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f589344e03b60e&origin=https%3A%2F%2Fwww.instagram.com"
+1504627531732	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f589344e03b60e&origin=https%3A%2F%2Fwww.instagram.com"
+1504627532333	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627533515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627535224	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504627536614	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536620	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536621	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536628	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536635	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536637	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536641	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536653	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536656	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536659	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536664	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536673	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536676	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627536679	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627537240	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627537332	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504627537574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504627537574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1504627537574	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504627537575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1504627537575	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1504627537576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1504627537576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504627537576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1504627537576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504627537577	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1504627537578	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1504627537578	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1504627537579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1504627537579	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1504627538497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627538512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627538521	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627538604	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627538653	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2eb05f14c2872&origin=https%3A%2F%2Fwww.instagram.com"
+1504627538655	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2eb05f14c2872&origin=https%3A%2F%2Fwww.instagram.com"
+1504627540089	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627540523	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f272b8d7e8b669c&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2eb05f14c2872&relation=parent&error=unknown_user"
+1504627540685	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1504627540701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627595182	geckodriver	INFO	geckodriver 0.18.0
+1504627595189	geckodriver	INFO	Listening on 127.0.0.1:54256
+1504627595274	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504627596098	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504627596725	Marionette	INFO	Enabled via --marionette
+1504627599403	Marionette	INFO	Listening on port 54263
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504627599490	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-09-05 19:06:39.529 plugin-container[86550:5533284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 19:06:39.530 plugin-container[86550:5533284] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504627599582	Marionette	DEBUG	loaded listener.js
+1504627599617	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504627600401	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504627600401	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504627602459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504627603457	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627603738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f24dd95e2d68e3&origin=https%3A%2F%2Fwww.instagram.com"
+1504627603745	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f24dd95e2d68e3&origin=https%3A%2F%2Fwww.instagram.com"
+1504627604057	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627605276	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627608076	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504627608413	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627608959	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627609007	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504627609115	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504627609116	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1504627609117	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1504627610259	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627610265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627610279	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627610415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627610500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f106fd4d911f42&origin=https%3A%2F%2Fwww.instagram.com"
+1504627610503	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f106fd4d911f42&origin=https%3A%2F%2Fwww.instagram.com"
+1504627610809	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627611056	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504627611086	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f3292c4c2d632d8&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff106fd4d911f42&relation=parent&error=unknown_user"
+1504627611091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1504627611182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627807153	geckodriver	INFO	geckodriver 0.18.0
+1504627807160	geckodriver	INFO	Listening on 127.0.0.1:54641
+1504627807266	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504627807871	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504627808674	Marionette	INFO	Enabled via --marionette
+1504627811071	Marionette	INFO	Listening on port 54648
+2017-09-05 19:10:11.103 plugin-container[86625:5536190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 19:10:11.104 plugin-container[86625:5536190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504627811162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504627811218	Marionette	DEBUG	loaded listener.js
+1504627811243	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504627811877	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504627811878	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504627813565	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504627815166	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627815611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1c2390daef1656&origin=https%3A%2F%2Fwww.instagram.com"
+1504627815614	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f1c2390daef1656&origin=https%3A%2F%2Fwww.instagram.com"
+1504627815915	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627816999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627818589	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504627818952	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627818952	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504627820125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627820164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627820178	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627820294	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627820375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f25dac957a30a0e&origin=https%3A%2F%2Fwww.instagram.com"
+1504627820380	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f25dac957a30a0e&origin=https%3A%2F%2Fwww.instagram.com"
+1504627820665	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627820908	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504627820933	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f1931adee201488&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff25dac957a30a0e&relation=parent&error=unknown_user"
+1504627820936	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504627821116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627853522	geckodriver	INFO	geckodriver 0.18.0
+1504627853528	geckodriver	INFO	Listening on 127.0.0.1:54901
+1504627853897	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504627854367	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504627855177	Marionette	INFO	Enabled via --marionette
+1504627857527	Marionette	INFO	Listening on port 54908
+2017-09-05 19:10:57.630 plugin-container[86656:5537373] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 19:10:57.633 plugin-container[86656:5537373] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504627857648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504627857708	Marionette	DEBUG	loaded listener.js
+1504627857746	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504627858429	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504627858429	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504627860390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504627861628	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627861921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=ff73c90915e9e6&origin=https%3A%2F%2Fwww.instagram.com"
+1504627861926	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=ff73c90915e9e6&origin=https%3A%2F%2Fwww.instagram.com"
+1504627862251	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627863457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627865058	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504627865475	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627865476	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504627866574	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627866619	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627866627	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627866727	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627866842	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f376120d829224c&origin=https%3A%2F%2Fwww.instagram.com"
+1504627866850	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f376120d829224c&origin=https%3A%2F%2Fwww.instagram.com"
+1504627867197	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627867503	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504627867527	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f4f39e4a14fbb8&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff376120d829224c&relation=parent&error=unknown_user"
+1504627867561	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504627867603	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1504627881126	geckodriver	INFO	geckodriver 0.18.0
+1504627881132	geckodriver	INFO	Listening on 127.0.0.1:55059
+1504627881628	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504627882083	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504627882821	Marionette	INFO	Enabled via --marionette
+1504627885337	Marionette	INFO	Listening on port 55066
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504627885407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504627885500	Marionette	DEBUG	loaded listener.js
+2017-09-05 19:11:25.537 plugin-container[86666:5538383] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-05 19:11:25.538 plugin-container[86666:5538383] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504627885549	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504627886627	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504627886627	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504627888677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504627890520	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627890923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f11c926a3da142e&origin=https%3A%2F%2Fwww.instagram.com"
+1504627890926	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f11c926a3da142e&origin=https%3A%2F%2Fwww.instagram.com"
+1504627891071	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504627892215	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627893801	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504627894257	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504627894257	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504627895157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627895198	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504627895206	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627895284	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627895342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=fba3f78b233b34&origin=https%3A%2F%2Fwww.instagram.com"
+1504627895345	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=fba3f78b233b34&origin=https%3A%2F%2Fwww.instagram.com"
+1504627895678	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504627895892	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504627895919	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=f52a62350b9a44&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ffba3f78b233b34&relation=parent&error=unknown_user"
+1504627895922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1504627896138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504627957283	Marionette	DEBUG	loaded listener.js
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/netmonitor/src/connector/firefox-connector.js, line 91: TypeError: this.tabTarget is null
+1504649939714	geckodriver	INFO	geckodriver 0.18.0
+1504649939723	geckodriver	INFO	Listening on 127.0.0.1:56237
+1504649940909	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1504649941514	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1504649942069	Marionette	INFO	Enabled via --marionette
+2017-09-06 01:19:04.522 plugin-container[87400:5568800] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-09-06 01:19:04.523 plugin-container[87400:5568800] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1504649944740	Marionette	INFO	Listening on port 56256
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504649944834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504649944876	Marionette	DEBUG	loaded listener.js
+1504649944896	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504649945467	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504649945467	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504649946256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1504649946560	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504649946661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f33c6d48cbbae58&origin=https%3A%2F%2Fwww.instagram.com"
+1504649946664	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f33c6d48cbbae58&origin=https%3A%2F%2Fwww.instagram.com"
+1504649946821	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1504649947919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1504649950951	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1504649951140	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504649951501	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1504649951558	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1504649951599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1504649951600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1504649951600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1504649951600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1504649951600	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1504649952077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504649952096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1504649952101	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504649952195	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504649952283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3dabc60aec6cd2&origin=https%3A%2F%2Fwww.instagram.com"
+1504649952285	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f3dabc60aec6cd2&origin=https%3A%2F%2Fwww.instagram.com"
+1504649953060	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1504649953317	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1504649953897	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#cb=fd94c048e12de6&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff3dabc60aec6cd2&relation=parent&error=unknown_user"
+1504649953936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507205627278	geckodriver	INFO	geckodriver 0.18.0
+1507205627290	geckodriver	INFO	Listening on 127.0.0.1:59981
+1507205628499	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507205629555	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507205630731	Marionette	INFO	Enabled via --marionette
+2017-10-05 15:13:53.309 plugin-container[19425:3379542] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa63f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:13:53.311 plugin-container[19425:3379542] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa03, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507205634337	Marionette	INFO	Listening on port 59994
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507205634413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507205634476	Marionette	DEBUG	loaded listener.js
+1507205634524	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507205635053	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507205635054	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507205637076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507205637790	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507205637985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f21361aeea74cbc&origin=https%3A%2F%2Fwww.instagram.com"
+1507205637988	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f21361aeea74cbc&origin=https%3A%2F%2Fwww.instagram.com"
+1507205638171	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507205639622	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507205641977	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507205643206	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507205643246	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507205643375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507205643375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507205643386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1507205643395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507205643395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1507205644445	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507205644507	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507205644515	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507205644627	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507205644682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2aa942159e7d3c&origin=https%3A%2F%2Fwww.instagram.com"
+1507205644688	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2aa942159e7d3c&origin=https%3A%2F%2Fwww.instagram.com"
+1507205654730	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507205655011	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507205655046	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f2d566fa1609372&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2aa942159e7d3c&relation=parent&error=unknown_user"
+1507205655080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1507205655379	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206127111	geckodriver	INFO	geckodriver 0.18.0
+1507206127118	geckodriver	INFO	Listening on 127.0.0.1:62547
+1507206127254	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507206128309	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507206129585	Marionette	INFO	Enabled via --marionette
+2017-10-05 15:22:12.856 plugin-container[19531:3385538] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:22:12.858 plugin-container[19531:3385538] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507206133236	Marionette	INFO	Listening on port 62554
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507206133976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507206134053	Marionette	DEBUG	loaded listener.js
+1507206134212	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507206134873	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507206134873	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507206136313	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507206137124	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206137368	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3ec10052a22bce&origin=https%3A%2F%2Fwww.instagram.com"
+1507206137372	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3ec10052a22bce&origin=https%3A%2F%2Fwww.instagram.com"
+1507206137678	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206139122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206140774	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507206142071	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507206142098	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507206142170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507206143060	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206143118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206143129	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206143230	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206143356	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1e172331ec8f78&origin=https%3A%2F%2Fwww.instagram.com"
+1507206143364	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1e172331ec8f78&origin=https%3A%2F%2Fwww.instagram.com"
+1507206147772	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206148008	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507206148044	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f1a44df51458c46&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff1e172331ec8f78&relation=parent&error=unknown_user"
+1507206148074	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1507206148493	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206239170	geckodriver	INFO	geckodriver 0.18.0
+1507206239179	geckodriver	INFO	Listening on 127.0.0.1:63464
+1507206239478	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507206240237	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507206240946	Marionette	INFO	Enabled via --marionette
+2017-10-05 15:24:03.007 plugin-container[19573:3387743] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:24:03.010 plugin-container[19573:3387743] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507206243498	Marionette	INFO	Listening on port 63471
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507206243542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507206243594	Marionette	DEBUG	loaded listener.js
+1507206243624	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507206244612	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507206244613	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507206246079	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507206246658	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206246823	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fe7f6e2d0e49f2&origin=https%3A%2F%2Fwww.instagram.com"
+1507206246825	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fe7f6e2d0e49f2&origin=https%3A%2F%2Fwww.instagram.com"
+1507206246974	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206248217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206251108	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507206251644	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507206251675	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507206251839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507206251840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507206251840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1507206253048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206253108	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206253122	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206253221	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206253286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2c41606c84803e&origin=https%3A%2F%2Fwww.instagram.com"
+1507206253291	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2c41606c84803e&origin=https%3A%2F%2Fwww.instagram.com"
+1507206254826	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206255085	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507206255138	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f3ebd7cc7c77b76&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2c41606c84803e&relation=parent&error=unknown_user"
+1507206255151	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1507206255364	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206328748	geckodriver	INFO	geckodriver 0.18.0
+1507206328754	geckodriver	INFO	Listening on 127.0.0.1:64080
+1507206328876	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507206329681	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507206330591	Marionette	INFO	Enabled via --marionette
+2017-10-05 15:25:32.709 plugin-container[19588:3389250] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:25:32.711 plugin-container[19588:3389250] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507206333494	Marionette	INFO	Listening on port 64087
+1507206333519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507206333587	Marionette	DEBUG	loaded listener.js
+1507206333755	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507206334530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507206334530	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507206338811	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507206340196	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206340647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2d06da346eadca&origin=https%3A%2F%2Fwww.instagram.com"
+1507206340651	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2d06da346eadca&origin=https%3A%2F%2Fwww.instagram.com"
+1507206340791	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206342253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206343889	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507206344376	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507206344377	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507206345586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206345589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206345597	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206345962	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206346058	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1c36f9058ae408&origin=https%3A%2F%2Fwww.instagram.com"
+1507206346069	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1c36f9058ae408&origin=https%3A%2F%2Fwww.instagram.com"
+1507206346743	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206347073	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507206347122	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f320a95e73a2b1e&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff1c36f9058ae408&relation=parent&error=unknown_user"
+1507206347164	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1507206347343	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1507206367758	geckodriver	INFO	geckodriver 0.18.0
+1507206367773	geckodriver	INFO	Listening on 127.0.0.1:64403
+1507206367958	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507206368654	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507206369799	Marionette	INFO	Enabled via --marionette
+2017-10-05 15:26:11.991 plugin-container[19614:3390858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:26:11.994 plugin-container[19614:3390858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507206372960	Marionette	INFO	Listening on port 64410
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507206373047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507206373110	Marionette	DEBUG	loaded listener.js
+1507206373134	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507206373766	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507206373767	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507206375331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507206375877	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206376012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f52b7b6e8b9764&origin=https%3A%2F%2Fwww.instagram.com"
+1507206376017	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f52b7b6e8b9764&origin=https%3A%2F%2Fwww.instagram.com"
+1507206376257	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206377510	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206381026	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507206381417	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507206381641	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507206381676	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507206381799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507206381800	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507206381801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1507206381802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507206381802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1507206381803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1507206382846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206382883	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206382889	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206383001	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206383287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3cba9fc3467f9&origin=https%3A%2F%2Fwww.instagram.com"
+1507206383290	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3cba9fc3467f9&origin=https%3A%2F%2Fwww.instagram.com"
+1507206384855	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206385299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206724684	geckodriver	INFO	geckodriver 0.18.0
+1507206724695	geckodriver	INFO	Listening on 127.0.0.1:50033
+1507206724886	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507206725473	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507206725972	Marionette	INFO	Enabled via --marionette
+2017-10-05 15:32:07.834 plugin-container[19784:3396015] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:32:07.835 plugin-container[19784:3396015] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507206728083	Marionette	INFO	Listening on port 50046
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507206728160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507206728198	Marionette	DEBUG	loaded listener.js
+1507206728219	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507206728649	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507206728650	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507206729766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507206730306	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206730458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f100bff6a2d6528&origin=https%3A%2F%2Fwww.instagram.com"
+1507206730460	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f100bff6a2d6528&origin=https%3A%2F%2Fwww.instagram.com"
+1507206730627	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206732059	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206733714	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507206734179	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507206734180	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507206735122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206735170	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206735181	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206735294	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206735421	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1d830e7d337528&origin=https%3A%2F%2Fwww.instagram.com"
+1507206735425	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f1d830e7d337528&origin=https%3A%2F%2Fwww.instagram.com"
+1507206735803	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206736113	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507206736151	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f11ba5af98b431e&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff1d830e7d337528&relation=parent&error=unknown_user"
+1507206736166	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1507206736391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206848583	geckodriver	INFO	geckodriver 0.18.0
+1507206848589	geckodriver	INFO	Listening on 127.0.0.1:51015
+1507206848677	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507206849473	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507206850074	Marionette	INFO	Enabled via --marionette
+1507206852408	Marionette	INFO	Listening on port 51022
+2017-10-05 15:34:12.472 plugin-container[19837:3397875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:34:12.473 plugin-container[19837:3397875] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507206852487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507206852541	Marionette	DEBUG	loaded listener.js
+1507206852570	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507206853329	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507206853330	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507206855681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507206856313	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206856428	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fe05ad3f497fce&origin=https%3A%2F%2Fwww.instagram.com"
+1507206856430	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fe05ad3f497fce&origin=https%3A%2F%2Fwww.instagram.com"
+1507206856611	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206857618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206859245	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507206859633	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507206859633	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507206860372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206860378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206860387	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206860530	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206860606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2a7f9091bdc736&origin=https%3A%2F%2Fwww.instagram.com"
+1507206860609	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2a7f9091bdc736&origin=https%3A%2F%2Fwww.instagram.com"
+1507206861581	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206861771	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507206861796	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f3f3202f3008cfa&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2a7f9091bdc736&relation=parent&error=unknown_user"
+1507206861831	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1507206862095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206969026	geckodriver	INFO	geckodriver 0.18.0
+1507206969034	geckodriver	INFO	Listening on 127.0.0.1:52357
+1507206969399	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507206970158	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507206970884	Marionette	INFO	Enabled via --marionette
+1507206973503	Marionette	INFO	Listening on port 52364
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507206973620	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-10-05 15:36:13.633 plugin-container[19869:3400342] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:36:13.634 plugin-container[19869:3400342] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507206973680	Marionette	DEBUG	loaded listener.js
+1507206973717	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507206974379	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507206974379	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507206975896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507206976512	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206976634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f233236c78b648e&origin=https%3A%2F%2Fwww.instagram.com"
+1507206976637	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f233236c78b648e&origin=https%3A%2F%2Fwww.instagram.com"
+1507206976755	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507206978839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507206981568	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507206981747	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507206982090	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507206982167	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507206982258	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507206982260	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507206982262	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1507206982262	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507206982263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1507206982263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1507206983861	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206983959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507206983965	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206984249	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206985039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f4d1f80bad4dd&origin=https%3A%2F%2Fwww.instagram.com"
+1507206985043	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f4d1f80bad4dd&origin=https%3A%2F%2Fwww.instagram.com"
+1507206985962	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507206986631	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f232f53bc86ffe&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff4d1f80bad4dd&relation=parent&error=unknown_user"
+1507206986651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1507206987013	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1620: TypeError: can't access dead object
+1507207523158	geckodriver	INFO	geckodriver 0.18.0
+1507207523165	geckodriver	INFO	Listening on 127.0.0.1:55949
+1507207523316	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507207524096	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507207524876	Marionette	INFO	Enabled via --marionette
+2017-10-05 15:45:27.459 plugin-container[20026:3407714] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:45:27.461 plugin-container[20026:3407714] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507207527744	Marionette	INFO	Listening on port 55960
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507207527843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507207527891	Marionette	DEBUG	loaded listener.js
+1507207527915	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507207530119	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507207530119	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507207536397	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507207537476	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207537727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f333315e30b03da&origin=https%3A%2F%2Fwww.instagram.com"
+1507207537730	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f333315e30b03da&origin=https%3A%2F%2Fwww.instagram.com"
+1507207538184	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207539424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507207542921	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507207543435	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507207543473	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507207543515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507207543515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507207543516	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1507207543516	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507207543517	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1507207544777	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507207544802	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507207544813	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507207544916	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507207545383	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3158f1ebe59bba&origin=https%3A%2F%2Fwww.instagram.com"
+1507207545385	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3158f1ebe59bba&origin=https%3A%2F%2Fwww.instagram.com"
+1507207545577	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507207545969	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507207546015	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f1ec789ac4ddec2&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff3158f1ebe59bba&relation=parent&error=unknown_user"
+1507207546020	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1507207546288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507207578105	geckodriver	INFO	geckodriver 0.18.0
+1507207578114	geckodriver	INFO	Listening on 127.0.0.1:56351
+1507207578252	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507207579095	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507207580022	Marionette	INFO	Enabled via --marionette
+1507207582487	Marionette	INFO	Listening on port 56358
+1507207582558	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-10-05 15:46:22.572 plugin-container[20060:3409136] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:46:22.574 plugin-container[20060:3409136] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507207582639	Marionette	DEBUG	loaded listener.js
+1507207582671	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507207583169	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507207583170	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507207584807	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507207585547	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207585878	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2571aab54723ac&origin=https%3A%2F%2Fwww.instagram.com"
+1507207585884	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2571aab54723ac&origin=https%3A%2F%2Fwww.instagram.com"
+1507207585903	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207587297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507207624097	geckodriver	INFO	geckodriver 0.18.0
+1507207624111	geckodriver	INFO	Listening on 127.0.0.1:56717
+1507207624303	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507207625584	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507207626827	Marionette	INFO	Enabled via --marionette
+2017-10-05 15:47:10.080 plugin-container[20076:3410619] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:47:10.082 plugin-container[20076:3410619] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507207631008	Marionette	INFO	Listening on port 56724
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507207631084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507207631152	Marionette	DEBUG	loaded listener.js
+1507207631194	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507207631608	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507207631608	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507207633595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507207634267	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207634629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f12ddfce92da526&origin=https%3A%2F%2Fwww.instagram.com"
+1507207634632	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f12ddfce92da526&origin=https%3A%2F%2Fwww.instagram.com"
+1507207634860	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207637138	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1507207673513	geckodriver	INFO	geckodriver 0.18.0
+1507207673523	geckodriver	INFO	Listening on 127.0.0.1:57154
+1507207673664	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507207674463	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507207675755	Marionette	INFO	Enabled via --marionette
+1507207679431	Marionette	INFO	Listening on port 57165
+2017-10-05 15:47:59.559 plugin-container[20113:3412176] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:47:59.561 plugin-container[20113:3412176] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507207679877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507207679962	Marionette	DEBUG	loaded listener.js
+1507207680003	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507207680701	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507207680702	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507207682234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507207683085	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207683679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2570da2bd110ae&origin=https%3A%2F%2Fwww.instagram.com"
+1507207683682	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2570da2bd110ae&origin=https%3A%2F%2Fwww.instagram.com"
+1507207683733	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207685717	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 20113] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1507207720750	geckodriver	INFO	geckodriver 0.18.0
+1507207720767	geckodriver	INFO	Listening on 127.0.0.1:57558
+1507207723737	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507207724392	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507207726069	Marionette	INFO	Enabled via --marionette
+1507207730096	Marionette	INFO	Listening on port 57578
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+2017-10-05 15:48:50.263 plugin-container[20206:3413372] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 15:48:50.265 plugin-container[20206:3413372] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507207730289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507207730348	Marionette	DEBUG	loaded listener.js
+1507207730380	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507207730925	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507207730926	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507207732717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507207733572	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207733752	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3ad6a4522a122&origin=https%3A%2F%2Fwww.instagram.com"
+1507207733756	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3ad6a4522a122&origin=https%3A%2F%2Fwww.instagram.com"
+1507207734074	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507207737007	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507207738832	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507207739215	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507207739215	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507207740860	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507207740917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507207740925	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507207741095	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507207742354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2683b76a3c0b2&origin=https%3A%2F%2Fwww.instagram.com"
+1507207742370	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2683b76a3c0b2&origin=https%3A%2F%2Fwww.instagram.com"
+1507207742721	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507207743184	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507207743254	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f18d0cbc94894c&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff2683b76a3c0b2&relation=parent&error=unknown_user"
+1507207743641	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1507207743641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507207819591	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/lekaitow/followers/"
+1507207820009	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/followers/"
+1507207820016	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/lekaitow/followers/"
+1507207820333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507207820334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507207821302	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507207821352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507207821362	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507207821497	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507207821628	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2af59db4fb822c&origin=https%3A%2F%2Fwww.instagram.com"
+1507207821632	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f2af59db4fb822c&origin=https%3A%2F%2Fwww.instagram.com"
+1507207821703	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507207822008	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507207822100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507209037163	geckodriver	INFO	geckodriver 0.18.0
+1507209037172	geckodriver	INFO	Listening on 127.0.0.1:49258
+1507209038323	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507209039126	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507209039783	Marionette	INFO	Enabled via --marionette
+2017-10-05 16:10:42.067 plugin-container[20510:3431320] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 16:10:42.072 plugin-container[20510:3431320] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507209042947	Marionette	INFO	Listening on port 49271
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507209043048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507209043089	Marionette	DEBUG	loaded listener.js
+1507209043115	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507209043936	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507209043937	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507209045756	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507209046529	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507209046810	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fb9538facd1a6&origin=https%3A%2F%2Fwww.instagram.com"
+1507209046814	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fb9538facd1a6&origin=https%3A%2F%2Fwww.instagram.com"
+1507209047038	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507209048900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507209050559	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507209050973	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507209050973	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507209053910	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507209053984	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507209053992	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507209054340	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507209054438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3e290060513638&origin=https%3A%2F%2Fwww.instagram.com"
+1507209054442	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f3e290060513638&origin=https%3A%2F%2Fwww.instagram.com"
+1507209056214	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507209056488	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507209056533	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f2e051538f341c4&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ff3e290060513638&relation=parent&error=unknown_user"
+1507209056627	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1507209056652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507209067565	geckodriver	INFO	geckodriver 0.18.0
+1507209067570	geckodriver	INFO	Listening on 127.0.0.1:49551
+1507209067744	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1507209068486	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1507209069130	Marionette	INFO	Enabled via --marionette
+2017-10-05 16:11:11.641 plugin-container[20529:3432341] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-10-05 16:11:11.642 plugin-container[20529:3432341] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1507209071930	Marionette	INFO	Listening on port 49558
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1507209072037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507209072078	Marionette	DEBUG	loaded listener.js
+1507209072104	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507209072829	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507209072829	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507209074578	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/accounts/login/"
+1507209075428	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507209075627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f24b7f0691fe52&origin=https%3A%2F%2Fwww.instagram.com"
+1507209075630	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=f24b7f0691fe52&origin=https%3A%2F%2Fwww.instagram.com"
+1507209075841	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/accounts/login/"
+1507209077621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507209083367	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.instagram.com/"
+1507209083920	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/"
+1507209083978	Marionette	DEBUG	Received DOM event "unload" for "https://www.instagram.com/"
+1507209084161	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507209084165	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507209084167	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1507209084168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507209084168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1507209084169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1507209084169	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1507209084170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1507209084170	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1507209085753	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507209085820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.instagram.com/lekaitow/"
+1507209085834	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507209085935	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507209086485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fe61fecb04fc7&origin=https%3A%2F%2Fwww.instagram.com"
+1507209086493	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#channel=fe61fecb04fc7&origin=https%3A%2F%2Fwww.instagram.com"
+1507209087257	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.instagram.com/lekaitow/"
+1507209087639	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.instagram.com/lekaitow/"
+1507209087738	Marionette	DEBUG	Received DOM event "pagehide" for "https://staticxx.facebook.com/connect/xd_arbiter/r/Z2duorNoYeF.js?version=42#cb=f2ca71ea63fcec8&domain=www.instagram.com&origin=https%3A%2F%2Fwww.instagram.com%2Ffe61fecb04fc7&relation=parent&error=unknown_user"
+1507209087848	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1507209087902	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
